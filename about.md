@@ -4,43 +4,16 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Chúng mình không dịch lại cuốn sách y nguyên từ tiếng anh sang tiếng việt mà thay vào đó ở từng phần chúng mình sẽ đọc, tìm hiểu, rút trích những nội dung quan trọng, tổng hợp và ghi chép lại theo ý hiểu riểng của bản thân, nội dung sau đó sẽ được những thành viên khác đọc, đặt câu hỏi và hiệu chỉnh. Ở từng phần chúng mình có thể sẽ đưa vào những ví dụ, hoặc nội dung phụ khác không có ở trong bản gốc. Qúa trình tóm tắt và tổng hợp nội dung của cuốn sách có thể có nhiều lỗi xảy ra, chúng mình luôn biết ơn và đón nhận những phản hồi, những bình luận từ các bạn cũng như sự tham gia đóng góp của các bạn, đó cũng là cách chúng ta học hỏi lẫn nhau để tốt hơn. Xin cảm ơn rất nhiều</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you want to master something, teach it. <a href="https://t.co/N5gyZywQIH">pic.twitter.com/N5gyZywQIH</a></p>&mdash; Richard Feynman (@ProfFeynman) <a href="https://twitter.com/ProfFeynman/status/1161700561781055488?ref_src=twsrc%5Etfw">August 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p></p>
 
-<h2>Skills</h2>
+<h2>Thành viên hiện tại (sắp xếp ngẫu nhiên)</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul class="member-list">
+	<li><a href="https://www.facebook.com/tu.nguyensinh">Nguyễn S. Tú</a> </li>
+	<li>Nguyễn Ngô Phú Vinh</li>
+	<li>Nguyễn Thành Tín</li>
+	<li>Nguyễn Lý Phước Trung</li>
 </ul>
